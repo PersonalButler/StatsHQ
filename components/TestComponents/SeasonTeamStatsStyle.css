@@ -1,0 +1,12 @@
+.SeasonTeamStats {
+    width: 800px;
+    height: 20px;
+    margin-left: 30%;
+
+
+  }
+
+  .TeamStatsTable{
+
+    border: '3px black';
+  }

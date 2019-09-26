@@ -1,0 +1,586 @@
+[
+    {
+       "name":"Gary Harris",
+       "id":1,
+       "teams":[
+          "Denver Nuggets"
+       ],
+       "satlary":"1 million dollars",
+       "careerStats": [16.3, 5.1, 9.6, 2.4],
+       "stats":[
+          {
+             "season":"2015-2016",
+             "ppg":10,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          },
+          {
+             "season":"2016-2017",
+             "ppg":15,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          },
+          {
+             "season":"2017-2018",
+             "ppg":10,
+             "apg":7,
+             "rebpg":9,
+             "turnpg":2
+          },
+          {
+             "season":"2018-2019",
+             "ppg":10,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          }
+       ]
+    },
+    {
+       "name":"Nikola Jokic",
+       "id":2,
+       "teams":[
+          "Denver Nuggets"
+       ],
+       "salary":"1 million dollars",
+       "careerStats": [16.3, 5.1, 9.6, 2.4],
+       "stats":[
+          {
+             "season":"2015-2016",
+             "ppg":10,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          },
+          {
+             "season":"2016-2017",
+             "ppg":15,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          },
+          {
+             "season":"2017-2018",
+             "ppg":10,
+             "apg":7,
+             "rebpg":9,
+             "turnpg":2
+          },
+          {
+             "season":"2018-2019",
+             "ppg":10,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          }
+       ]
+    },
+    {
+       "name":"Paul Millsap",
+       "id":3,
+       "teams":[
+          "Denver Nuggets"
+       ],
+       "salary":"1 million dollars",
+       "careerStats": [16.3, 5.1, 9.6, 2.4],
+       "stats":[
+          {
+             "season":"2015-2016",
+             "ppg":10,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          },
+          {
+             "season":"2016-2017",
+             "ppg":15,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          },
+          {
+             "season":"2017-2018",
+             "ppg":10,
+             "apg":7,
+             "rebpg":9,
+             "turnpg":2
+          },
+          {
+             "season":"2018-2019",
+             "ppg":10,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          }
+       ]
+    },
+    {
+       "name":"Will Barton",
+       "id":4,
+       "teams":[
+          "Denver Nuggets"
+       ],
+       "salary":"1 million dollars",
+       "careerStats": [16.3, 5.1, 9.6, 2.4],
+       "stats":[
+          {
+             "season":"2015-2016",
+             "ppg":10,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          },
+          {
+             "season":"2016-2017",
+             "ppg":15,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          },
+          {
+             "season":"2017-2018",
+             "ppg":10,
+             "apg":7,
+             "rebpg":9,
+             "turnpg":2
+          },
+          {
+             "season":"2018-2019",
+             "ppg":10,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          }
+       ]
+    },
+    {
+       "name":"Jamal Murray",
+       "id":5,
+       "teams":[
+          "Denver Nuggets"
+       ],
+       "salary":"1 million dollars",
+       "careerStats": [16.3, 5.1, 9.6, 2.4],
+       "stats":[
+          {
+             "season":"2015-2016",
+             "ppg":10,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          },
+          {
+             "season":"2016-2017",
+             "ppg":15,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          },
+          {
+             "season":"2017-2018",
+             "ppg":10,
+             "apg":7,
+             "rebpg":9,
+             "turnpg":2
+          },
+          {
+             "season":"2018-2019",
+             "ppg":10,
+             "apg":7,
+             "rebpg":8,
+             "turnpg":2
+          }
+       ]
+    },
+   {
+      "name":"Diangelo Russell",
+      "id":6,
+      "teams":[
+         "Brooklyn Nets"
+      ],
+      "salary":"1 million dollars",
+      "careerStats": [16.3, 5.1, 9.6, 2.4],
+      "stats":[
+         {
+            "season":"2015-2016",
+            "ppg":100,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2016-2017",
+            "ppg":15,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2017-2018",
+            "ppg":10,
+            "apg":7,
+            "rebpg":9,
+            "turnpg":2
+         },
+         {
+            "season":"2018-2019",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         }
+      ]
+   },
+   {
+      "name":"Joe Harris",
+      "id":7,
+      "teams":[
+         "Brooklyn Nets"
+      ],
+      "salary":"1 million dollars",
+      "careerStats": [16.3, 5.1, 9.6, 2.4],
+      "stats":[
+         {
+            "season":"2015-2016",
+            "ppg":1000,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2016-2017",
+            "ppg":15,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2017-2018",
+            "ppg":10,
+            "apg":7,
+            "rebpg":9,
+            "turnpg":2
+         },
+         {
+            "season":"2018-2019",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         }
+      ]
+   },
+   {
+      "name":"Demere Carroll",
+      "id":8,
+      "teams":[
+         "Brooklyn Nets"
+      ],
+      "salary":"1 million dollars",
+      "careerStats": [16.3, 5.1, 9.6, 2.4],
+      "stats":[
+         {
+            "season":"2015-2016",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2016-2017",
+            "ppg":15,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2017-2018",
+            "ppg":10,
+            "apg":7,
+            "rebpg":9,
+            "turnpg":2
+         },
+         {
+            "season":"2018-2019",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         }
+      ]
+   },
+   {
+      "name":"Shabaz Napier",
+      "id":9,
+      "teams":[
+         "Brooklyn Nets"
+      ],
+      "salary":"1 million dollars",
+      "careerStats": [16.3, 5.1, 9.6, 2.4],
+      "stats":[
+         {
+            "season":"2015-2016",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2016-2017",
+            "ppg":15,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2017-2018",
+            "ppg":10,
+            "apg":7,
+            "rebpg":9,
+            "turnpg":2
+         },
+         {
+            "season":"2018-2019",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         }
+      ]
+   },
+   {
+      "name":"Jarett Allen",
+      "id":10,
+      "teams":[
+         "Brooklyn Nets"
+      ],
+      "salary":"1 million dollars",
+      "careerStats": [16.3, 5.1, 9.6, 2.4],
+      "stats":[
+         {
+            "season":"2015-2016",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2016-2017",
+            "ppg":15,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2017-2018",
+            "ppg":10,
+            "apg":7,
+            "rebpg":9,
+            "turnpg":2
+         },
+         {
+            "season":"2018-2019",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         }
+      ]
+   },
+   {
+      "name":"Emanuel Mudiay",
+      "id":11,
+      "teams":[
+         "New York Knicks"
+      ],
+      "salary":"1 million dollars",
+      "careerStats": [16.3, 5.1, 9.6, 2.4],
+      "stats":[
+         {
+            "season":"2015-2016",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2016-2017",
+            "ppg":15,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2017-2018",
+            "ppg":10,
+            "apg":7,
+            "rebpg":9,
+            "turnpg":2
+         },
+         {
+            "season":"2018-2019",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         }
+      ]
+   },{
+      "name":"Kevin Knox",
+      "id":12,
+      "teams":[
+         "New York Knicks"
+      ],
+      "salary":"1 million dollars",
+      "careerStats": [16.3, 5.1, 9.6, 2.4],
+      "stats":[
+         {
+            "season":"2015-2016",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2016-2017",
+            "ppg":15,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2017-2018",
+            "ppg":10,
+            "apg":7,
+            "rebpg":9,
+            "turnpg":2
+         },
+         {
+            "season":"2018-2019",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         }
+      ]
+   },
+   {
+      "name":"Mitchell Robinson",
+      "id":13,
+      "teams":[
+         "New York Knicks"
+      ],
+      "salary":"1 million dollars",
+      "careerStats": [16.3, 5.1, 9.6, 2.4],
+      "stats":[
+         {
+            "season":"2015-2016",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2016-2017",
+            "ppg":15,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2017-2018",
+            "ppg":10,
+            "apg":7,
+            "rebpg":9,
+            "turnpg":2
+         },
+         {
+            "season":"2018-2019",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         }
+      ]
+   },
+   {
+      "name":"Dennis Smith Jr.",
+      "id":14,
+      "teams":[
+         "New York Knicks"
+      ],
+      "salary":"1 million dollars",
+      "careerStats": [16.3, 5.1, 9.6, 2.4],
+      "stats":[
+         {
+            "season":"2015-2016",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2016-2017",
+            "ppg":15,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2017-2018",
+            "ppg":10,
+            "apg":7,
+            "rebpg":9,
+            "turnpg":2
+         },
+         {
+            "season":"2018-2019",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         }
+      ]
+   },
+   {
+      "name":"Frank Ntiklina",
+      "id":15,
+      "teams":[
+         "New York Knicks"
+      ],
+      "salary":"1 million dollars",
+      "careerStats": [16.3, 5.1, 9.6, 2.4],
+      "stats":[
+         {
+            "season":"2015-2016",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2016-2017",
+            "ppg":15,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         },
+         {
+            "season":"2017-2018",
+            "ppg":10,
+            "apg":7,
+            "rebpg":9,
+            "turnpg":2
+         },
+         {
+            "season":"2018-2019",
+            "ppg":10,
+            "apg":7,
+            "rebpg":8,
+            "turnpg":2
+         }
+      ]
+   }
+ ]

@@ -1,0 +1,160 @@
+[
+    {
+        "name":"Denver Nuggets",
+        "id":1001,
+        "salaryCap":"94.4 million",
+        "teamStats": [
+            {
+                "year":"2015-2016",
+                "wins":39,
+                "losses":43,
+                "avgPtsScored":101.9,
+                "avgPointsConceded":102.3,
+                "avgOffRebounds":11.5,
+                "avgDefRebounds":33.1,
+                "avgAssists":22.6,
+                "avgFoulsGiven":21.0
+                },
+                {
+                "year":"2016-2017",
+                "wins":36,
+                "losses":46,
+                "avgPtsScored":111.7,
+                "avgPointsConceded":112.0,
+                "avgOffRebounds":11.8,
+                "avgDefRebounds":34.6,
+                "avgAssists":25.3,
+                "avgFoulsGiven":19.1
+            },
+            {
+                "year":"2017-2018",
+                "wins":40,
+                "losses":42,
+                "avgPtsScored":110.7,
+                "avgPointsConceded":112.4,
+                "avgOffRebounds":11.9,
+                "avgDefRebounds":34.5,
+                "avgAssists":27.4,
+                "avgFoulsGiven":20.0
+                },
+            {
+                "year":"2018-2019",
+                "wins":58,
+                "losses":24,
+                "avgPtsScored":114.1,
+                "avgPointsConceded":108.0,
+                "avgOffRebounds":10.9,
+                "avgDefRebounds":32.4,
+                "avgAssists":30.1,
+                "avgFoulsGiven":18.2
+            }
+        ]            
+
+    },
+    {
+        "name":"Brooklyn Nets",
+        "id":1002,
+        "salaryCap":"94.4 million",
+        "teamStats": [
+            {
+                "year":"2015-2016",
+                "wins":1000,
+                "losses":43,
+                "avgPtsScored":101.9,
+                "avgPointsConceded":102.3,
+                "avgOffRebounds":11.5,
+                "avgDefRebounds":33.1,
+                "avgAssists":22.6,
+                "avgFoulsGiven":21.0
+                },
+                {
+                "year":"2016-2017",
+                "wins":36,
+                "losses":46,
+                "avgPtsScored":111.7,
+                "avgPointsConceded":112.0,
+                "avgOffRebounds":11.8,
+                "avgDefRebounds":34.6,
+                "avgAssists":25.3,
+                "avgFoulsGiven":19.1
+            },
+            {
+                "year":"2017-2018",
+                "wins":40,
+                "losses":42,
+                "avgPtsScored":110.7,
+                "avgPointsConceded":112.4,
+                "avgOffRebounds":11.9,
+                "avgDefRebounds":34.5,
+                "avgAssists":27.4,
+                "avgFoulsGiven":20.0
+                },
+            {
+                "year":"2018-2019",
+                "wins":58,
+                "losses":24,
+                "avgPtsScored":114.1,
+                "avgPointsConceded":108.0,
+                "avgOffRebounds":10.9,
+                "avgDefRebounds":32.4,
+                "avgAssists":30.1,
+                "avgFoulsGiven":18.2
+            }
+        ]            
+
+    },
+    {
+        "name":"New York Knicks",
+        "id":1002,
+        "salaryCap":"94.4 million",
+        "teamStats": [
+            {
+                "year":"2015-2016",
+                "wins":1000,
+                "losses":43,
+                "avgPtsScored":101.9,
+                "avgPointsConceded":102.3,
+                "avgOffRebounds":11.5,
+                "avgDefRebounds":33.1,
+                "avgAssists":22.6,
+                "avgFoulsGiven":21.0
+                },
+                {
+                "year":"2016-2017",
+                "wins":36,
+                "losses":46,
+                "avgPtsScored":111.7,
+                "avgPointsConceded":112.0,
+                "avgOffRebounds":11.8,
+                "avgDefRebounds":34.6,
+                "avgAssists":25.3,
+                "avgFoulsGiven":19.1
+            },
+            {
+                "year":"2017-2018",
+                "wins":40000,
+                "losses":42,
+                "avgPtsScored":110.7,
+                "avgPointsConceded":112.4,
+                "avgOffRebounds":11.9,
+                "avgDefRebounds":34.5,
+                "avgAssists":27.4,
+                "avgFoulsGiven":20.0
+                },
+            {
+                "year":"2018-2019",
+                "wins":58,
+                "losses":24,
+                "avgPtsScored":114.1,
+                "avgPointsConceded":108.0,
+                "avgOffRebounds":10.9,
+                "avgDefRebounds":32.4,
+                "avgAssists":30.1,
+                "avgFoulsGiven":18.2
+            }
+        ]            
+
+    }
+
+]
+
